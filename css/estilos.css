@@ -1,0 +1,80 @@
+*{
+padding: 0px;
+margin: 0px;
+box-sizing: border-box; 
+    
+}
+.hola{
+    width: 375px;
+    height: auto;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.uno{
+    width: 100px;
+    height: 100px;
+    background-color: mediumpurple;
+    border-radius: 100px; 
+    margin-top: 100px;
+    align-self: center;
+}
+
+.dos{
+    width: 270px;
+    height: 20px;
+    background-color: rebeccapurple;
+    border-radius: 60px;
+    margin-top: 30px;
+    align-self: center;
+}
+.tres{
+    width: 130px;
+    height: 15px;
+    background-color: #0A0B57;
+    border-radius: 60px;
+    margin-top: 30px;
+    align-self: center;
+}
+.cuatro{
+    width: 130px;
+    height: 15px;
+    background-color: #0A0B57;
+    border-radius: 60px;
+    margin-top: 15px;
+    align-self: center;
+}
+.cinco{
+    width: 270px;
+    height: 130px;
+    background-color: darkorange;
+    border-radius: 20px;
+    margin-top: 30px;
+    align-self: center;
+}
+.seis{
+    width: 270px;
+    height: 25px;
+    background-color: #0A0B57;
+    border-radius: 5px;
+    margin-top: 30px;
+    align-self: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
